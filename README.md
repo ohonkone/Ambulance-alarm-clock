@@ -62,3 +62,27 @@ The alarm behavior is implemented as a state-driven system where different outpu
 * Limited 16x2 LCD space required a custom substring-based scrolling system for longer messages.
 * Multiple system states (normal, alarm, setup) needed clear state management to avoid conflicting behavior.
 
+--------------------------------------------------------------------------------------------
+
+## Electronics
+* Components
+* Raspberry Pi Pico	1	
+* USB Cable		1
+* Breadboard big		1
+* Jumpers cable	M-M / F-M	
+* LEDs	Transparent/Red/Green	2/2/2
+* Resistors	10K / 230	1/4
+* Brushed DC Motor	GEARMOTOR 200 RPM 3-6V DC or STANDARD MOTOR 9100 RPM 6V	1
+* Power MOSFET	IRLZ34N	1
+* Diode	1N4007	1
+* Magnetic Buzzer	AUDIO MAGNETIC XDCR 3-8V TH	1
+* Battery holder	3/4 AAA batteries	1 -> 4.5V to circuit
+* Buttons 2
+* 16x2 LCD (I2C interface)
+
+* Wiring
+* "Note how to wire MOSFET, dc motor + dioede, leds need resistors, where to connect all components"
+- Assembly and wiring in Tinkercad (note that Tinkercad don't have Raspberry Pi Pico, so it's placed in breadboard shown in the picture):
+  https://www.tinkercad.com/things/dCtiujmw0vD-electronic-circuit-of-ambulance-alarm-clock?sharecode=n8KRjthndARLnjodSLvgcyvVyKkI40XEgiVX9qKJV4Q
+- example picture of circuit:
+<img width="906" height="781" alt="image" src="https://github.com/user-attachments/assets/9b2ca729-7b8a-4b81-9c37-87ad7aeab770" />
