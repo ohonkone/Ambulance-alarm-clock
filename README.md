@@ -66,9 +66,10 @@ The alarm behavior is implemented as a state-driven system where different outpu
 --------------------------------------------------------------------------------------------
 
 
-## Electronics
+## **Electronics**
 
 ## Components
+
 * Raspberry Pi Pico	1	
 * USB Cable		1
 * Breadboard big		1
@@ -84,10 +85,12 @@ The alarm behavior is implemented as a state-driven system where different outpu
 * 16x2 LCD (I2C interface)
 
 ## Wiring
-- **Note how to wire MOSFET, dc motor + dioede, leds need resistors, where to connect all components**
-- Electronic components run on batteries 
-- Assembly and wiring in Tinkercad (note that Tinkercad don't have Raspberry Pi Pico, so it's placed in breadboard shown in the picture):
+
+- **Note how to wire MOSFET, dc motor + diode, where to connect all components (GP pins), leds need resistors**
   
+- Electronic components run on batteries
+  
+- Assembly and wiring in Tinkercad (note that Tinkercad don't have Raspberry Pi Pico, so it's placed in breadboard shown in the picture):
   https://www.tinkercad.com/things/dCtiujmw0vD-electronic-circuit-of-ambulance-alarm-clock?sharecode=n8KRjthndARLnjodSLvgcyvVyKkI40XEgiVX9qKJV4Q
   
 - example picture of circuit:
