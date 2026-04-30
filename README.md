@@ -22,8 +22,8 @@ To compile this project, the following libraries are required:
 ## Pin Mapping
 | Component | Pin |
 | :--- | :--- |
-| Hour Button | 16 |
-| Minute Button | 17 |
+| Hour Button | 17 |
+| Minute Button | 16 |
 | Buzzer | 21 |
 | LED 1 | 19 |
 | LED 2 | 20 |
