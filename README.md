@@ -12,14 +12,6 @@ An alarm clock designed to make sure you get out of bed. When the alarm goes off
 * Night mode with reduced display brightness
 * Alarm can only be stopped by pressing both buttons
 
-## Hardware Requirements
-- **Microcontroller:** Raspberry Pi Pico
-- **Display:** 16x2 LCD (I2C interface)
-- **Buttons:** 2x Momentary push buttons
-- **Sound:** Active Buzzer
-- **Lights:** 2x LEDs (used for alternating emergency lights)
-- **Movement:** DC Motor for the movement
-
 ## Libraries Used
 
 To compile this project, the following libraries are required:
