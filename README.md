@@ -2,7 +2,7 @@
 
 An alarm clock designed to make sure you get out of bed. When the alarm goes off, the device activates multiple outputs including sound, lights, and motion, forcing the user to get out of bed and stop it manually.
 
-<img width="1536" height="2048" alt="20260504_085054000_iOS 1 1" src="https://github.com/user-attachments/assets/2660fa06-c04b-4575-9dc5-32e3da8360ce" />
+<img width="1036" height="1548" alt="20260504_085054000_iOS 1 1" src="https://github.com/user-attachments/assets/2660fa06-c04b-4575-9dc5-32e3da8360ce" />
 
 
 ## Features
