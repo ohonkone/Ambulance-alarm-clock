@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bambulanssiSeinä.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.52203984"
+     inkscape:cx="397.47924"
+     inkscape:cy="473.14396"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path40"
+       d="M 34.771836,70.212745 H 54.77116 v 3.00002 H 34.771836 Z"
+       style="fill:none;stroke:#00000c;stroke-width:0.00000625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path41"
+       d="m 103.28092,70.212745 h 19.99933 v 3.00002 h -19.99933 z"
+       style="fill:none;stroke:#00000c;stroke-width:0.00000625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path42"
+       d="m 145.79735,14.264665 0.007,31.24411 3.00002,-0.008 v 10.00019 h -2.9972 l 0.008,48.876295 -7.77205,-0.003 c -21.30601,0 -42.611667,0 -63.919095,0 C 73.301517,87.547185 59.554473,83.884295 53.618987,83.874765 46.712304,83.862465 33.671875,88.797075 33.082383,104.37433 H 10.91912 V 89.613055 l 3.020836,-0.0265 v -9.82945 H 10.91912 v -65.49389 h 23.862241 l -0.0095,3.00002 h 20.000735 l -0.0035,-3.00002 48.511184,10e-4 v 2.99861 h 20.00073 v -2.99861 h 22.51569 z"
+       style="fill:none;stroke:#00000c;stroke-width:0.00000625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9256;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#00000c;stroke-width:6.54235e-06;stroke-dasharray:none"
+       id="rect1"
+       width="70.970421"
+       height="26.970993"
+       x="44.876194"
+       y="22.150808" />
+    <ellipse
+       style="fill:none;stroke:#00000c;stroke-width:0.00000682;stroke-dasharray:none"
+       id="path2"
+       cx="62.362019"
+       cy="60.92963"
+       rx="5.9833632"
+       ry="5.9833636" />
+    <ellipse
+       style="fill:none;stroke:#00000c;stroke-width:0.00000682;stroke-dasharray:none"
+       id="path2-1"
+       cx="98.36203"
+       cy="60.929874"
+       rx="5.9833632"
+       ry="5.9833636" />
+  </g>
+</svg>
