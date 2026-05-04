@@ -9,7 +9,6 @@ An alarm clock designed to make sure you get out of bed. When the alarm goes off
 * Multi-modal alarm system (buzzer, LEDs, DC motor) 
 * LCD display for time and alarm status
 * Scrolling text display during alarm
-* Night mode with reduced display brightness
 * Alarm can only be stopped by pressing both buttons
 
 ## Libraries Used
