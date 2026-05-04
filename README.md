@@ -2,7 +2,7 @@
 
 An alarm clock designed to make sure you get out of bed. When the alarm goes off, the device activates multiple outputs including sound, lights, and motion, forcing the user to get out of bed and stop it manually.
 
-<img width="1036" height="1548" alt="20260504_085054000_iOS 1 1" src="https://github.com/user-attachments/assets/2660fa06-c04b-4575-9dc5-32e3da8360ce" />
+<img width="384" height="512" alt="20260504_085054000_iOS 1 1" src="https://github.com/user-attachments/assets/2660fa06-c04b-4575-9dc5-32e3da8360ce" />
 
 
 ## Features
@@ -48,12 +48,14 @@ The alarm behavior is implemented as a state-driven system where different outpu
 4. Upload the program to the microcontroller and wake up on time!
 
 ## Demo
-<img width="1536" height="2048" alt="20260504_085055000_iOS" src="https://github.com/user-attachments/assets/483b6f92-bc1b-486f-ac1d-c500372fb607" />
-<img width="1536" height="2048" alt="20260504_085054000_iOS 2 1" src="https://github.com/user-attachments/assets/ff2e2c02-570f-4c61-90af-b4cb2ce94b0e" />
-<img width="1536" height="2048" alt="20260504_085054000_iOS 1" src="https://github.com/user-attachments/assets/9247e4a4-4886-445f-9f87-0b39984f1721" />
-<img width="1536" height="2048" alt="20260504_085054000_iOS 1" src="https://github.com/user-attachments/assets/65634acb-258d-4b4f-a064-83b7365fb901" />
+<img width="384" height="512" alt="20260504_085055000_iOS" src="https://github.com/user-attachments/assets/483b6f92-bc1b-486f-ac1d-c500372fb607" />
+<img width="384" height="512" alt="20260504_085054000_iOS 2 1" src="https://github.com/user-attachments/assets/ff2e2c02-570f-4c61-90af-b4cb2ce94b0e" />
+<img width="384" height="512" alt="20260504_085054000_iOS 1" src="https://github.com/user-attachments/assets/9247e4a4-4886-445f-9f87-0b39984f1721" />
+<img width="384" height="512" alt="20260504_085054000_iOS 2" src="https://github.com/user-attachments/assets/6ed3f22c-28ba-445d-87e1-5353b205c586" />
 
-(images/video) Will be added here
+
+https://github.com/user-attachments/assets/0250648f-f57b-4a04-ac94-70722cbea9a9
+
 
 ## Challenges
 * Managing multiple button functions with only two inputs required implementing reliable short/long press detection using timing logic.
