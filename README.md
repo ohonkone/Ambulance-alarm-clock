@@ -16,13 +16,17 @@ An alarm clock designed to make sure you get out of bed. When the alarm goes off
 
 ## Model
 This project is a modified and enhanced version of the original design by VectorsFile.com.
-(Note that this model from libraries are not made form scratch they are modded versions of this model above)
-https://vectorsfile.com/laser-cut-ambulance-medical-toy-car-3d-puzzle-vehicle-model-kit/
+
+(Note that this model from libraries are not made form scratch they are modded versions of this model above).
+
+- https://vectorsfile.com/laser-cut-ambulance-medical-toy-car-3d-puzzle-vehicle-model-kit/
 
 This model has been used and adapted to fit screen leds, buzzer etc, axle system and scaled version to fit electronics. 
 
-You can found cutting files for frame from *Ambulance laser cut-directory*
-You can found axle model to dc motor files from *Ambulance alarm axle-directory*
+
+* You can found cutting files for frame from *Ambulance laser cut-directory*.
+
+* You can found axle model to dc motor files from *Ambulance alarm axle-directory*.
 
 
 
