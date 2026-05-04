@@ -2,6 +2,8 @@
 
 An alarm clock designed to make sure you get out of bed. When the alarm goes off, the device activates multiple outputs including sound, lights, and motion, forcing the user to get out of bed and stop it manually.
 
+  Kuva, joka sisältää kohteen pyörä, ajoneuvo, maa-ajoneuvo, rengas Tekoälyllä luotu sisältö saattaa olla virheellistä.
+
 ## Features
 * Configurable alarm time using two physical buttons
 * 12-hour and 24-hour time format support
